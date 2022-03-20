@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iamumesh2058
+- 👀 I’m interested in python programming and problem solving
+- 🌱 I’m currently learning python programming with its GUI such as Tkinter and Kivy
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can directly contact me through gmail

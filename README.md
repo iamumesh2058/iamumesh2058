@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Umesh Gurung</h1>
-<h3 align="center">A Machine Learning enthusiastic from Nepal.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*UFK4FjRiapOJ44dwksBanw.gif">
 

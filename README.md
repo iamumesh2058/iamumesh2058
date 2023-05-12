@@ -25,12 +25,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm Umesh Gurung.<br>- 📚 I'm currently learning machine learning<br>- ⚡ In my free time I</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###

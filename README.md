@@ -1,2 +1,1 @@
-# MERN Stack Developer
-🙃
+# MERN Stack Developer 🙃

@@ -1,1 +1,1 @@
-# Web Developer (<> MERN stack </>)
+# Web Developer (<> </>)
